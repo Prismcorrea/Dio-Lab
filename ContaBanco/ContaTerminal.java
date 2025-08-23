@@ -43,5 +43,10 @@ public class ContaTerminal {
 
         scanner.close();
     }
+
+    @Override
+    public String toString() {
+        return "ContaTerminal []";
+    }
 }
 
