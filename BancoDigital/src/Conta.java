@@ -1,4 +1,3 @@
-// Conta.java
 public abstract class Conta {
     protected String numero;
     protected double saldo;
